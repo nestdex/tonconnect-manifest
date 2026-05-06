@@ -1,5 +1,8 @@
 {
-    "url": "https://nestdex.io",              
-    "name": "Nest Dex",                     
-    "iconUrl": "https://raw.githubusercontent.com/nestdex/tonconnect-manifest/master/nest-logo-transparent.png"
+  "url": "https://nestdex.io",
+  "name": "Nest",
+  "iconUrl": "https://nestdex.io/tonconnect-icon.png",
+  "termsOfUseUrl": "https://nestdex.io/terms",
+  "privacyPolicyUrl": "https://nestdex.io/privacy",
+  "aboutUrl": "https://nestdex.io"
 }
